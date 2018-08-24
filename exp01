@@ -4,7 +4,13 @@ so happy to see you
 
 lets see how this works  on merge with master
 
+<<<<<<< HEAD
 
 test01:
 
 changes on master
+=======
+test:
+
+changes on expremental branch
+>>>>>>> expremental
